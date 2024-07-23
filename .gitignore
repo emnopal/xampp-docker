@@ -1,0 +1,8 @@
+.env
+htdocs/*
+!htdocs/.gitkeep
+!config/.gitkeep
+!config/apache/.gitkeep
+!config/php/.gitkeep
+config/apache/*
+config/php/*
